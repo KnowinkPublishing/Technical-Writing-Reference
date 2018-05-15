@@ -34,7 +34,7 @@ Education and Training is divided into education companies, such as Udemy and po
 
 ## Can I Contribute?
 
-By all means. Find some relevant content and add it to the site. 
+By all means. Find some relevant content and add it to the site and create a pull request. 
 
 Coding format: For the most part this is created in Markdown. I did cheat a little to get the indentations by prefixing HTML non-breaking spaces to some lines. In Markdown an entry would look like:
 
