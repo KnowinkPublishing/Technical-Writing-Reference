@@ -4,7 +4,8 @@
 
 Table of Contents:
 
-[Applications](#Applications)
+[Applications](#applications)
+[Books and Guides](#books-and-guides)
 
 ---
 
