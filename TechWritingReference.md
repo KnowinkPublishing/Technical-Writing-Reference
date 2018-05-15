@@ -5,7 +5,7 @@
 ---
 
 
-![Code Image](/images/code.png)
-## Code
+
+## Code &nbsp; ![Code Image](/images/code.png)
 
 &nbsp;&nbsp;&nbsp;[Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
