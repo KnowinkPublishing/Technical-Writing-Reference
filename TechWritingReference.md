@@ -2,10 +2,16 @@
 
 # Tech Writing Reference
 
-Table of Contents:
+## Table of Contents:
 
-[Applications](#applications)
-[Books and Guides](#books-and-guides)
+[Applications](#applications)\
+[Blogs and Websites](#blogs-and-websites)\
+[Books and Guides](#books-and-guides)\
+[Code](#code)\
+[Editors](#editors)\
+[Education and Training](#education-and-training)\
+[Organizations](#organizations)\
+[Symbology](#symbology)
 
 ---
 
@@ -144,7 +150,7 @@ Books and guides could realistically be a multi-page document by itself. I'm goi
 
 ---
 
-## Education & Training
+## Education and Training
 
 As with the books section, education and training could be an exhaustive list that would warrant its own section (or sections). Again, I'm just getting the ball rolling and hoping others will contribute. 
 
@@ -193,5 +199,18 @@ As with the books section, education and training could be an exhaustive list th
 [$] There is some sort of payment associated with it, such as a book that needs to be purchased or an organization that requires a membership fee.\
 [∆] The link leads to some sort of sponsored content. Bear that in mind when visiting.\
 [>] The education content (CEU's for example) is presented under this organization's branding but managed by another organization.
+
+---
+
+## Table of Contents:
+
+[Applications](#applications)\
+[Blogs and Websites](#blogs-and-websites)\
+[Books and Guides](#books-and-guides)\
+[Code](#code)\
+[Editors](#editors)\
+[Education and Training](#education-and-training)\
+[Organizations](#organizations)\
+[Symbology](#symbology)
 
 
