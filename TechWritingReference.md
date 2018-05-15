@@ -2,6 +2,10 @@
 
 # Tech Writing Reference
 
+## Applications
+
+&nbsp;&nbsp;&nbsp;[Spotlight [$]](https://stoplight.io/)\
+&nbsp;&nbsp;&nbsp;_Modular API Toolkit_
 
 ## Blogs and Websites 
 
