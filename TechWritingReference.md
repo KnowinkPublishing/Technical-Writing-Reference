@@ -51,7 +51,7 @@ Table of Contents:
 
 ## Books and Guides 
 
-Books and guides could realistically be a multi-page document by itself. I'm going to kickstart this section and hopefully it'll grow from contributions. If it does become oversized, it'll be moved to it's own page. 
+Books and guides could realistically be a multi-page document by itself. I'm going to kickstart this section and hopefully it'll grow from contributions. If the section does become oversized it'll be moved to a subsection. 
 
 #### Books
 
@@ -145,7 +145,7 @@ Books and guides could realistically be a multi-page document by itself. I'm goi
 
 ## Education & Training
 
-As with the books section, education and training could be an exhaustive list that would warrant it's own section (or sections). Again, I'm just getting the ball rolling and hoping others will contribute. 
+As with the books section, education and training could be an exhaustive list that would warrant its own section (or sections). Again, I'm just getting the ball rolling and hoping others will contribute. 
 
 #### Colleges and Universities
 
