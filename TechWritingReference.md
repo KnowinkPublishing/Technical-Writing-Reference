@@ -7,6 +7,11 @@
 &nbsp;&nbsp;&nbsp;[Spotlight [$]](https://stoplight.io/)\
 &nbsp;&nbsp;&nbsp;_Modular API Toolkit_
 
+&nbsp;&nbsp;&nbsp;[Swagger [$]](https://swagger.io/)\
+&nbsp;&nbsp;&nbsp;_The world’s largest framework of API developer tools for the OpenAPI._
+
+
+
 ## Blogs and Websites 
 
 &nbsp;&nbsp;&nbsp;[ClickHelp [∆]](https://clickhelp.co/clickhelp-technical-writing-blog/lifehacks-for-technical-writers/)\
@@ -40,13 +45,53 @@
 
 ## Books and Guides 
 
+Books and guides could realistically be a multi-page document by itself. I'm going to kickstart this section and hopefully it'll grow from contributions. If it does become oversized, it'll be moved to it's own page. 
+
 #### Books
+
+&nbsp;&nbsp;&nbsp;[A Handbook For Technical Writers [$]](https://www.amazon.co.uk/Handbook-Technical-Writers-Editors-Capitalization-ebook/dp/B005ETBHAE)\
+&nbsp;&nbsp;&nbsp;**Author:** M. McCaskill\
+&nbsp;&nbsp;&nbsp;_Grammar, punctuation and capitlization for technical writers._
 
 &nbsp;&nbsp;&nbsp;[The DITA Style Guide [$]](https://ditastyle.com/)\
 &nbsp;&nbsp;&nbsp;**Author:** Tony Self\
 &nbsp;&nbsp;&nbsp;_The DITA Style Guide provides comprehensive, practical explanations of DITA elements and attributes._
 
+&nbsp;&nbsp;&nbsp;[Docs Like Code [$]](https://www.docslikecode.com/book/)\
+&nbsp;&nbsp;&nbsp;**Author:** Anne Gentle\
+&nbsp;&nbsp;&nbsp;_Best practices for writing docs using development tools and techniques._
+
+&nbsp;&nbsp;&nbsp;[Don't Make Me Think, Revisited [$]](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515)\
+&nbsp;&nbsp;&nbsp;**Author:** Steve Krug\
+&nbsp;&nbsp;&nbsp;_A common sense approach to web usability._
+
+&nbsp;&nbsp;&nbsp;[Online Technical Writing](https://www.prismnet.com/~hcexres/textbook/)\
+&nbsp;&nbsp;&nbsp;**Author:** David McMurray\
+&nbsp;&nbsp;&nbsp;_Free online book for technical writers._
+
+
+&nbsp;&nbsp;&nbsp;[Technical Writing Process [$]](https://www.amazon.com/dp/0994169310/ref=asc_df_09941693105471700?tag=shopz0d-20&ascsubtag=shopzilla_mp_1475-20&15264019801342523099710080301008005&creative=395261&creativeASIN=0994169310&linkCode=asn)\
+&nbsp;&nbsp;&nbsp;**Author:** Kieran Morgan\
+&nbsp;&nbsp;&nbsp;_Five-step guide that anyone can use to create technical documents._
+
+
 #### Guides
+
+&nbsp;&nbsp;&nbsp;[The Apple Style Guide](https://help.apple.com/applestyleguide/)\
+&nbsp;&nbsp;&nbsp;_Provides editorial guidelines for text in Apple instructional materials, technical documentation...._
+
+&nbsp;&nbsp;&nbsp;[Federal Plain Language Guideline](https://plainlanguage.gov/guidelines/)\
+&nbsp;&nbsp;&nbsp;_Guidelines to help Federal agencies write clearly._
+
+&nbsp;&nbsp;&nbsp;[Google Style Guide](https://developers.google.com/style/)\
+&nbsp;&nbsp;&nbsp;_Provides a set of editorial guidelines for writing developer documentation for Google-related projects._
+
+&nbsp;&nbsp;&nbsp;[Microsoft Style Guide](https://docs.microsoft.com/en-us/style-guide/welcome/)\
+&nbsp;&nbsp;&nbsp;_Guide to writing style for all communications—whether an app, a website, or a white paper._
+
+&nbsp;&nbsp;&nbsp;[Web Style Guide, 3rd Edition](http://webstyleguide.com/wsg3/index.html)\
+&nbsp;&nbsp;&nbsp;**Author:** Patrick Lynch and Sarah Horton\
+&nbsp;&nbsp;&nbsp;_Comprehensive guide for web design and content._
 
 ---
 
@@ -72,6 +117,11 @@
 &nbsp;&nbsp;&nbsp;[Mastering Markdown](https://guides.github.com/features/mastering-markdown/)\
 &nbsp;&nbsp;&nbsp;_Github's guide to using Markdown_
 
+#### OpenAPI
+
+&nbsp;&nbsp;&nbsp;[OpenAPI Initiative](https://apihandyman.io/writing-openapi-swagger-specification-tutorial-part-1-introduction/)\
+&nbsp;&nbsp;&nbsp;_Writing to the OpenAPI specifications._
+
 ---
 
 ## Editors
@@ -79,9 +129,17 @@
 &nbsp;&nbsp;&nbsp;[OxYGEN XML Editor [$]](https://www.oxygenxml.com/)\
 &nbsp;&nbsp;&nbsp;_Provides tools for XML editing, covering most XML standards and technologies._
 
+&nbsp;&nbsp;&nbsp;[SwaggerHub [$]](https://swaggerhub.com/?_ga=2.265258061.312421849.1526397992-2115287174.1526397992)\
+&nbsp;&nbsp;&nbsp;_The Platform for Designing and Documenting APIs with Swagger._
+
+&nbsp;&nbsp;&nbsp;[Visual Studio Code (Microsoft)](https://code.visualstudio.com/?wt.mc_id=adw-brand&gclid=CjwKCAjwiurXBRAnEiwAk2GFZgYvqjUZ32blfNuVYtfM4I8j4KK7tJKDCaFJZvKt0PS6Sv7Um_I-uxoCcrIQAvD_BwE)\
+&nbsp;&nbsp;&nbsp;_Code editing. Redefined._
+
 ---
 
 ## Education & Training
+
+As with the books section, education and training could be an exhaustive list that would warrant it's own section (or sections). Again, I'm just getting the ball rolling and hoping others will contribute. 
 
 #### Colleges and Universities
 
@@ -102,9 +160,31 @@
 
 #### Education Companies
 
-&nbsp;&nbsp;&nbsp;[Udemy ~ Technical Writing: Master Your Writing Career[$]](https://www.udemy.com/technical-writing/?siteID=PUbXK5j4Cas-pTx0kELALIbVmalBD9vMkA&LSNPUBID=PUbXK5j4Cas)\
+&nbsp;&nbsp;&nbsp;[Ed2Go ~ Technical Writing[$]](https://www.ed2go.com/courses/writing/writing-and-editing/ctp/technical-writing)\
 &nbsp;&nbsp;&nbsp;_How to Become a Profitable, Reliable, and Successful Technical Writer._
 
+&nbsp;&nbsp;&nbsp;[Udemy ~ Technical Writing: Master Your Writing Career[$]](https://www.udemy.com/technical-writing/?siteID=PUbXK5j4Cas-pTx0kELALIbVmalBD9vMkA&LSNPUBID=PUbXK5j4Cas)\
+&nbsp;&nbsp;&nbsp;_This technical writing course is the best way to get started in the field of Technical Writing._
 
+---
+
+## Organizations
+
+&nbsp;&nbsp;&nbsp;[American Medical Writer's Association[$]](http://www.amwa.org/)\
+&nbsp;&nbsp;&nbsp;_Professional association promoting excellence in medical communication._
+
+&nbsp;&nbsp;&nbsp;[Professional Writers Association[$]](http://www.prowriters.org/)\
+&nbsp;&nbsp;&nbsp;_Professional writers network._
+
+&nbsp;&nbsp;&nbsp;[Society of Technical Communicators[$]](https://www.stc.org/)\
+&nbsp;&nbsp;&nbsp;_Professional association dedicated to the advancement of technical communication._
+
+---
+
+## Symbology
+
+[$] There is some sort of payment associated with it, such as a book that needs to be purchased or an organization that requires a membership fee.\
+[∆] The link leads to some sort of sponsored content. Bear that in mind when visiting.\
+[>] The education content (CEU's for example) is presented under this organization's branding but managed by another organization.
 
 
