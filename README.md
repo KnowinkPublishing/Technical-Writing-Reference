@@ -30,7 +30,7 @@ Education and Training is divided into education companies, such as Udemy and po
 ## What Do The Symbols Represent?
 
 [$] There is some sort of payment associated with it, such as a book that needs to be purchased or an organization that requires a membership fee.\
-[∆] The link leads to some sort of sponsored content. Bear that in mind when visiting.
+[∆] The link leads to some sort of sponsored content. Bear that in mind when visiting.\
 [>] The education content (CEU's for example) is presented under this organization's branding but managed by another organization. 
 
 ## Can I Contribute?
