@@ -36,6 +36,12 @@ Education and Training is divided into education companies, such as Udemy and po
 
 By all means. Find some relevant content and add it to the site and create a pull request. 
 
+## Any Style Reuirements?
+
+Some.
+
+### Coding:
+
 Coding format: For the most part this is created in Markdown. I did cheat a little to get the indentations by prefixing HTML non-breaking spaces to some lines. In Markdown an entry would look like:
 
 ~~~
@@ -59,3 +65,7 @@ For book references add an author line.
 &nbsp;&nbsp;&nbsp;[Docs Like Code [$]](https://www.docslikecode.com/book/)\
 &nbsp;&nbsp;&nbsp;**Author:** Anne Gentle\
 &nbsp;&nbsp;&nbsp;_Best practices for writing docs using development tools and techniques._
+
+### Commenting
+
+In an attempt to keep this readable I am trying to limit the comments about a link to one line. 
