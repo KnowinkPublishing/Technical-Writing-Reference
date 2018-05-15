@@ -3,11 +3,11 @@
 # Tech Writing Reference
 
 ---
-## Blogs and Websites &nbsp; ![WWW Image](/images/www.png)
+## Blogs and Websites 
 
 ---
 
-## Books and Guides &nbsp; ![Book Image](/images/book.png)
+## Books and Guides 
 
 &nbsp;&nbsp;&nbsp;[The DITA Style Guide [$]](https://ditastyle.com/)\
 &nbsp;&nbsp;&nbsp;**Author:** Tony Self\
@@ -15,7 +15,7 @@
 
 ---
 
-## Code &nbsp; ![Code Image](/images/code.png)
+## Code 
 
 #### DITA
 
