@@ -21,7 +21,10 @@ The list is organized alphabetically by topic and then alphabetically within the
 5. Organizations
 6. User Guides
 
+
 ---
+
+Entries may be duplicated if they satisfy two criteria. For example, The DITA Style Guide is a book but also provides coding information. Therefore it is placed under both the Books and Professional Study Guides and Coding sections. 
 
 
 
