@@ -4,7 +4,7 @@
 
 ---
 
-
+## Books and Guides &nbsp; ![Book Image](/images/book.png)
 
 ## Code &nbsp; ![Code Image](/images/code.png)
 
