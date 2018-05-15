@@ -27,7 +27,8 @@ Entries may be duplicated if they satisfy two criteria. For example, The DITA St
 
 ## What Do The Symbols Represent?
 
-Any entry with a [$] following it means that there is some sort of payment associated with it, such as a book that needs to be purchased or an organization that requires a membership fee. 
+[$] There is some sort of payment associated with it, such as a book that needs to be purchased or an organization that requires a membership fee. 
+[∆] The link leads to some sort of sponsored content. Bear that in mind when visiting. 
 
 
 
