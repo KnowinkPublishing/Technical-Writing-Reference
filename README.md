@@ -37,7 +37,7 @@ Education and Training is divided into education companies, such as Udemy and po
 
 By all means. Find some relevant content and add it to the site. 
 
-Coding format: For the most part this is created in Markdown. I did cheat a little to get the indentations by prefixing &nbsp; to some lines. In Markdown an entry would look like:
+Coding format: For the most part this is created in Markdown. I did cheat a little to get the indentations by prefixing HTML non-breaking spaces to some lines. In Markdown an entry would look like:
 
 ~~~
 &nbsp;&nbsp;&nbsp;[Markdown Guide](https://www.markdownguide.org/)\
