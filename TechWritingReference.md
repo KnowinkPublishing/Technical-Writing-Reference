@@ -2,6 +2,12 @@
 
 # Tech Writing Reference
 
+Table of Contents:
+
+[Applications](#Applications)
+
+---
+
 ## Applications
 
 &nbsp;&nbsp;&nbsp;[Spotlight [$]](https://stoplight.io/)\
