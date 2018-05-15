@@ -15,11 +15,10 @@ As a programmer making the transition to a full fledge tech writer, the internet
 The list is organized alphabetically by topic and then alphabetically within the topic. The main topics I have selected are:
 
 1. Blogs and Websites
-2. Books and Professional Study Guides
+2. Books and Guides
 3. Coding
 4. Education & Training
 5. Organizations
-6. User Guides
 
 Entries may be duplicated if they satisfy two criteria. For example, The DITA Style Guide is a book but also provides coding information. Therefore it is placed under both the Books and Professional Study Guides and Coding sections. 
 
