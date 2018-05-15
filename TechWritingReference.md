@@ -6,7 +6,7 @@
 ## Blogs and Websites &nbsp; ![WWW Image](/images/www.png)
 
 &nbsp;&nbsp;&nbsp;[The DITA Style Guide [$]](https://ditastyle.com/)\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Author:** Tony Self\
+&nbsp;&nbsp;&nbsp**Author:** Tony Self\
 The DITA Style Guide: Best Practices for Authors provides comprehensive, practical explanations of DITA elements and attributes.
 
 ---
