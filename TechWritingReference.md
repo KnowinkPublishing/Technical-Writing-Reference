@@ -5,7 +5,9 @@
 ---
 ## Blogs and Websites &nbsp; ![WWW Image](/images/www.png)
 
-&nbsp;&nbsp;&nbsp;[The DITA Style Guide [$]](https://ditastyle.com/)
+&nbsp;&nbsp;&nbsp;[The DITA Style Guide [$]](https://ditastyle.com/)\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Author:** Tony Self\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_The DITA Style Guide: Best Practices for Authors provides comprehensive, practical explanations of DITA elements and attributes._
 
 ---
 
@@ -25,6 +27,9 @@
 ---
 
 ## Editors &nbsp;
+
+&nbsp;&nbsp;&nbsp;[OxYGEN XML Editor [$]](https://www.oxygenxml.com/)\
+&nbsp;&nbsp;&nbsp;_Provides tools for XML editing, covering most XML standards and technologies._
 
 ---
 
