@@ -6,7 +6,7 @@ A collection of links about technical writing.
 
 ## Why is this needed?
 
-As a programmer making the transition to a full fledge tech writer, the internet is my main resource of knowledge for my career change. I have found there is an abundance of information out there, blogs, web sites, pdf files, user guides, book references, all dedicated to technical writing. But I have not found an all inclusive reference. A place where everything is categorized. Seeing a need I thought I would fill in the knowledge gap. 
+As a programmer making the transition to a full fledge tech writer, the internet is the main source of knowledge for my career change. I have found an abundance of information floating in the ether, blogs, web sites, pdf files, user guides, book references, all dedicated to technical writing. But I have not found an all inclusive reference. A place where everything is categorized. Seeing a need I thought I would fill in the knowledge gap. And hone my Markdown skills. 
 
 ---
 
