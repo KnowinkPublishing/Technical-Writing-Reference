@@ -7,7 +7,7 @@
 
 &nbsp;&nbsp;&nbsp;[The DITA Style Guide [$]](https://ditastyle.com/)\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Author:** Tony Self\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_The DITA Style Guide: Best Practices for Authors provides comprehensive, practical explanations of DITA elements and attributes._
+The DITA Style Guide: Best Practices for Authors provides comprehensive, practical explanations of DITA elements and attributes.
 
 ---
 
