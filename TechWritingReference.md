@@ -3,4 +3,4 @@
 ---
 
 
-![Code Image](http://www.martiantribe.com/github/images/code.png)
+![Code Image](/images/code.png)
