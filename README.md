@@ -48,5 +48,14 @@ and should appear like this in the browser:
 &nbsp;&nbsp;&nbsp;[Markdown Guide](https://www.markdownguide.org/)\
 &nbsp;&nbsp;&nbsp;_A free and open-source reference guide that explains how to use Markdown._
 
+For book references add an author line. 
 
+~~~
+&nbsp;&nbsp;&nbsp;[Docs Like Code [$]](https://www.docslikecode.com/book/)\
+&nbsp;&nbsp;&nbsp;**Author:** Anne Gentle\
+&nbsp;&nbsp;&nbsp;_Best practices for writing docs using development tools and techniques._
+~~~
 
+&nbsp;&nbsp;&nbsp;[Docs Like Code [$]](https://www.docslikecode.com/book/)\
+&nbsp;&nbsp;&nbsp;**Author:** Anne Gentle\
+&nbsp;&nbsp;&nbsp;_Best practices for writing docs using development tools and techniques._
