@@ -11,7 +11,8 @@
 [Editors](#editors)\
 [Education and Training](#education-and-training)\
 [Organizations](#organizations)\
-[Symbology](#symbology)
+[Symbology](#symbology)\
+[Contact Me](#contact-me)
 
 ---
 
@@ -202,8 +203,6 @@ As with the books section, education and training could be an exhaustive list th
 
 ---
 
-## Table of Contents:
-
 [Applications](#applications)\
 [Blogs and Websites](#blogs-and-websites)\
 [Books and Guides](#books-and-guides)\
@@ -212,5 +211,9 @@ As with the books section, education and training could be an exhaustive list th
 [Education and Training](#education-and-training)\
 [Organizations](#organizations)\
 [Symbology](#symbology)
+
+### Contact Me:
+
+[Email: steve@martiantribe.com](mailto:steve@martiantribe.com)
 
 
