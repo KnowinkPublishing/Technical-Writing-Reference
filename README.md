@@ -4,7 +4,7 @@ A collection of links about technical writing.
 
 ---
 
-## Why is this needed?
+## Why Is This Needed?
 
 As a programmer making the transition to a full fledge tech writer, the internet is the main source of knowledge for my career change. I have found an abundance of information floating in the ether, blogs, web sites, pdf files, user guides, book references, all dedicated to technical writing. But I have not found an all inclusive reference. A place where everything is categorized. Seeing a need I thought I would fill in the knowledge gap. And hone my Markdown skills. 
 
@@ -36,7 +36,7 @@ Education and Training is divided into education companies, such as Udemy and po
 
 By all means. Find some relevant content and add it to the site and create a pull request. 
 
-## Any Style Reuirements?
+## Any Style Requirements?
 
 Some.
 
