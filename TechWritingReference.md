@@ -18,6 +18,10 @@
 
 ## Applications
 
+&nbsp;&nbsp;&nbsp;[Postman [$]](https://www.getpostman.com/)\
+&nbsp;&nbsp;&nbsp;_Developers use Postman to build
+modern software for the API-first world._
+
 &nbsp;&nbsp;&nbsp;[Spotlight [$]](https://stoplight.io/)\
 &nbsp;&nbsp;&nbsp;_Modular API Toolkit_
 
