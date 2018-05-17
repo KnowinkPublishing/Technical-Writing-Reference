@@ -71,6 +71,11 @@ Books and guides could realistically be a multi-page document by itself. I'm goi
 &nbsp;&nbsp;&nbsp;**Author:** M. McCaskill\
 &nbsp;&nbsp;&nbsp;_Grammar, punctuation and capitlization for technical writers._
 
+&nbsp;&nbsp;&nbsp;[The Complete Guide To Wikis [$]](https://www.amazon.com/gp/product/1601383193/ref=as_li_ss_tl?ie=UTF8&tag=theelearningc-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1601383193)\
+&nbsp;&nbsp;&nbsp;**Author:** T. Brian Chatfield\
+&nbsp;&nbsp;&nbsp;_How to set up, use, and benefit from Wikis._
+
+
 &nbsp;&nbsp;&nbsp;[The DITA Style Guide [$]](https://ditastyle.com/)\
 &nbsp;&nbsp;&nbsp;**Author:** Tony Self\
 &nbsp;&nbsp;&nbsp;_The DITA Style Guide provides comprehensive, practical explanations of DITA elements and attributes._
@@ -161,18 +166,21 @@ As with the books section, education and training could be an exhaustive list th
 
 #### Colleges and Universities
 
+&nbsp;&nbsp;&nbsp;[Bellevue College: Technical Writing Certificate[$]](https://www.bellevuecollege.edu/ce/programs/business/techical-writing-certificate-online-inclusive/)\
+&nbsp;&nbsp;&nbsp;_Targeted at working professionals with a strong knowledge of written English._
+
 &nbsp;&nbsp;&nbsp;[New Jersey Institute of Technology: Technical Communication Essentials[$]](https://www.njit.edu/graduatestudies/degree-programs/graduatecertificates/technical-communication-cert/)\
 &nbsp;&nbsp;&nbsp;_Students must complete a minimum of 30 degree credits taken over a minimum of two semesters._
 
 &nbsp;&nbsp;&nbsp;[New Jersey Institute of Technology: MS in Professional and Technical Communications](http://catalog.njit.edu/graduate/science-liberal-arts/humanities/professional-technical-communication-ms/)\
 &nbsp;&nbsp;&nbsp;_The program prepares students to communicate in rapidly changing technology fields._
 
-&nbsp;&nbsp;&nbsp;[University of Georgia: Fundamentals of Technical Writing[$]](https://www.georgiacenter.uga.edu/courses/reading-writing/fundamentals-of-technical-writing)\
+&nbsp;&nbsp;&nbsp;[University of Georgia: Fundamentals of Technical Writing[$][>]](https://www.georgiacenter.uga.edu/courses/reading-writing/fundamentals-of-technical-writing)\
 &nbsp;&nbsp;&nbsp;_This course will teach you the skills you need to succeed as a technical writer._
 
 &nbsp;&nbsp;&nbsp;_This course is managed by Ed2Go and can be taken at multiple organizations._
 
-&nbsp;&nbsp;&nbsp;[University of Georgia: Technical Writing Certificate[$][>]](https://www.georgiacenter.uga.edu/courses/reading-writing/technical-writing-certificate)\
+&nbsp;&nbsp;&nbsp;[University of Georgia: Technical Writing Certificate[$]](https://www.georgiacenter.uga.edu/courses/reading-writing/technical-writing-certificate)\
 &nbsp;&nbsp;&nbsp;_The program is designed for anyone who wishes to develop their technical writing abilities._
 
 
