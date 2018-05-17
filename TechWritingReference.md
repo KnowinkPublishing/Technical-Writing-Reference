@@ -235,6 +235,6 @@ As with the books section, education and training could be an exhaustive list th
 
 ### Contact Me:
 
-[Email: steve@martiantribe.com](mailto:steve@martiantribe.com)
+[Email: MartianTribe](mailto:steve@martiantribe.com)
 
 
