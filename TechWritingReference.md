@@ -178,7 +178,7 @@ As with the books section, education and training could be an exhaustive list th
 &nbsp;&nbsp;&nbsp;[University of Georgia: Fundamentals of Technical Writing[$][>]](https://www.georgiacenter.uga.edu/courses/reading-writing/fundamentals-of-technical-writing)\
 &nbsp;&nbsp;&nbsp;_This course will teach you the skills you need to succeed as a technical writer._
 
-&nbsp;&nbsp;&nbsp;_This course is managed by Ed2Go and can be taken at multiple organizations._
+&nbsp;&nbsp;&nbsp;_Course is managed by Ed2Go and can be taken at multiple organizations._
 
 &nbsp;&nbsp;&nbsp;[University of Georgia: Technical Writing Certificate[$]](https://www.georgiacenter.uga.edu/courses/reading-writing/technical-writing-certificate)\
 &nbsp;&nbsp;&nbsp;_The program is designed for anyone who wishes to develop their technical writing abilities._
