@@ -18,6 +18,9 @@
 
 ## Applications
 
+&nbsp;&nbsp;&nbsp;[Atlassian [$]](https://www.atlassian.com/)\
+&nbsp;&nbsp;&nbsp;_Developers of Jira, Confluence, Trello, etc._
+
 &nbsp;&nbsp;&nbsp;[Postman [$]](https://www.getpostman.com/)\
 &nbsp;&nbsp;&nbsp;_Developers use Postman to build
 modern software for the API-first world._
@@ -100,8 +103,11 @@ Books and guides could realistically be a multi-page document by itself. I'm goi
 
 #### Guides
 
+&nbsp;&nbsp;&nbsp;[AMWA Style Guide](http://www.amamanualofstyle.com/view/10.1093/jama/9780195176339.001.0001/med-9780195176339)\
+&nbsp;&nbsp;&nbsp;_Style guide for medical publishing_
+
 &nbsp;&nbsp;&nbsp;[The Apple Style Guide](https://help.apple.com/applestyleguide/)\
-&nbsp;&nbsp;&nbsp;_Provides editorial guidelines for text in Apple instructional materials, technical documentation...._
+&nbsp;&nbsp;&nbsp;_Provides editorial guidelines for text in Apple instructional materials, technical documentation, etc._
 
 &nbsp;&nbsp;&nbsp;[Federal Plain Language Guideline](https://plainlanguage.gov/guidelines/)\
 &nbsp;&nbsp;&nbsp;_Guidelines to help Federal agencies write clearly._
@@ -188,6 +194,9 @@ As with the books section, education and training could be an exhaustive list th
 
 &nbsp;&nbsp;&nbsp;[Ed2Go ~ Technical Writing[$]](https://www.ed2go.com/courses/writing/writing-and-editing/ctp/technical-writing)\
 &nbsp;&nbsp;&nbsp;_How to Become a Profitable, Reliable, and Successful Technical Writer._
+
+&nbsp;&nbsp;&nbsp;[Lynda[$]](https://www.lynda.com/)\
+&nbsp;&nbsp;&nbsp;_Several courses on technical and other business related writing._
 
 &nbsp;&nbsp;&nbsp;[Udemy ~ Technical Writing: Master Your Writing Career[$]](https://www.udemy.com/technical-writing/?siteID=PUbXK5j4Cas-pTx0kELALIbVmalBD9vMkA&LSNPUBID=PUbXK5j4Cas)\
 &nbsp;&nbsp;&nbsp;_This technical writing course is the best way to get started in the field of Technical Writing._
