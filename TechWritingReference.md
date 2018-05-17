@@ -118,6 +118,9 @@ Books and guides could realistically be a multi-page document by itself. I'm goi
 &nbsp;&nbsp;&nbsp;[Microsoft Style Guide](https://docs.microsoft.com/en-us/style-guide/welcome/)\
 &nbsp;&nbsp;&nbsp;_Guide to writing style for all communications—whether an app, a website, or a white paper._
 
+&nbsp;&nbsp;&nbsp;[Purdue OWL Guide](https://owl.english.purdue.edu/owl/section/4/16/)\
+&nbsp;&nbsp;&nbsp;_Resources for technical writing._
+
 &nbsp;&nbsp;&nbsp;[Web Style Guide, 3rd Edition](http://webstyleguide.com/wsg3/index.html)\
 &nbsp;&nbsp;&nbsp;**Author:** Patrick Lynch and Sarah Horton\
 &nbsp;&nbsp;&nbsp;_Comprehensive guide for web design and content._
